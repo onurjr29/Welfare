@@ -5,9 +5,5 @@ package com.works.solutionchallange2024.config
     viewmodellerde buradan erişim sağlanacak.
 
 
-
-
-
-    --------------------
-    asiflfasfa
+    asfasf
  */
